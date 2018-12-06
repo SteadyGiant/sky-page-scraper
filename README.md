@@ -1,7 +1,9 @@
-# Scraping the Global Cities & Buildings Database on SkycraperPage.com
+# Scraping the Global Cities & Buildings Database
 
-The Global Cities & Buildings Database contains data for 6,866 buildings, spread across 138 webpages. This script scrapes this 
-data.
+The 
+[Global Cities & Buildings Database](http://skyscraperpage.com/cities/?s=0&c=2&p=0&r=50&10=0)
+from [SkyscraperPage.com](http://skyscraperpage.com/) contains data for 6,866
+buildings, spread across 138 webpages. This script scrapes this data.
 
 ## License
 
